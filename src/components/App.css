@@ -1,0 +1,46 @@
+/* Styling for the Projects Section */
+.projects-section {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #f1f1f1;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .project-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #00aced;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .project-subtitle {
+    font-size: 1.2em;
+    color: #fff;
+    margin-top: 10px;
+    font-weight: 600;
+  }
+  
+  .project-details {
+    font-size: 1em;
+    color: #ccc;
+    margin-top: 5px;
+  }
+  
+  .project-list {
+    margin-top: 10px;
+    list-style-type: circle;
+    padding-left: 20px;
+  }
+  
+  .project-list li {
+    margin-bottom: 8px;
+  }
+  
+  .project-date-location {
+    font-size: 0.9em;
+    color: #b0b0b0;
+  }
+  

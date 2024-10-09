@@ -1,0 +1,21 @@
+.skills-section {
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+  }
+  
+  .skills-list {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two columns */
+    gap: 20px;
+  }
+  
+  .skills-list li {
+    padding: 10px;
+    background: #1f1f1f;
+    border-radius: 8px;
+  }
+  
