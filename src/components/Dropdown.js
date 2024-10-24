@@ -6,7 +6,7 @@ function Dropdown({ handleScrollToSection }) {
     <div className="dropdown">
       <button className="dropbtn">About Me</button>
       <div className="dropdown-content">
-        <button onClick={() => handleScrollToSection('Experiences')}>Jobs</button>
+        <button onClick={() => handleScrollToSection('Jobs')}>Jobs</button>
         <button onClick={() => handleScrollToSection('education')}>Education</button>
         <button onClick={() => handleScrollToSection('projects')}>Projects</button>
         <button onClick={() => handleScrollToSection('skills')}>Skills</button>
